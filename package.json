@@ -1,0 +1,24 @@
+{
+  "name": "react-native-medallia-native",
+  "version": "0.1.0",
+  "description": "Pure native Medallia feedback module for React Native (Android/iOS)",
+  "main": "src/index.js",
+  "react-native": "src/index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedhango/NativeMedallia.git"
+  },
+  "keywords": [
+    "react-native",
+    "medallia",
+    "native-module",
+    "feedback"
+  ],
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-native": ">=0.72.0"
+  }
+}
+
+
